@@ -27,12 +27,6 @@ To get started with the ESP Nametag Module, follow these steps:
 
 This project is intended exclusively for educational and exploratory purposes. The code is not designed for deployment in production environments, official servers, or any scenario that could compromise the fairness and integrity of Minecraft gameplay. Use the code responsibly and uphold the values of the Minecraft community.
 
-## Support and Contributions
-
-If you find this educational resource intriguing and would like to contribute to its development:
-
-[![Support Me](https://img.shields.io/badge/Support%20Me-Donate-green.svg)](https://streamelements.com/disabler/tip)
-
 Your support is immensely appreciated and serves as motivation for creating additional educational content.
 
 ## License
